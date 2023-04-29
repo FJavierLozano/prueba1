@@ -1,1 +1,5 @@
 Fichero1 contenido
+
+
+
+version 1.0
